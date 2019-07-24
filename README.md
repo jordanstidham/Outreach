@@ -9,6 +9,8 @@ Large, diverse corporate audience.
 									
 PROJECT DESCRIPTION									
 
-(1) I generate content for my group which has been promoted on corporate social media pages (@ORISEaspire). ORISEaspire is the social media platform dedicated to Oak Ridge Institute for Science and Education (ORISE)-administered research participation programs. ORISEaspire has over 7,000 followers across four channels: Facebook, Twitter, Instagram, and LinkedIn. 																		
-(2) Utilizing Lyris email marketing software to reach potential clients, make announcements, and share information. I generate weekly reports using the software and communicate the results to my team leaders. Utilizing Google Analytics to analyze web site data, specifically pinpointing sources, understanding bounce rates, and gaining insight on average time spent on a page. 																	
+(1) I generate content for my group which has been promoted on corporate social media pages (@ORISEaspire). ORISEaspire is the social media platform dedicated to Oak Ridge Institute for Science and Education (ORISE)-administered research participation programs. ORISEaspire has over 7,000 followers across four channels: Facebook, Twitter, Instagram, and LinkedIn. 
+
+(2) Utilizing Lyris email marketing software to reach potential clients, make announcements, and share information. I generate weekly reports using the software and communicate the results to my team leaders. Utilizing Google Analytics to analyze web site data, specifically pinpointing sources, understanding bounce rates, and gaining insight on average time spent on a page.
+
 (3) I created a social media marketing plan at the request of a company as a project in college. I undertook this task at no cost to the company. Swan Lake Golf Course in Clarksville, TN was in desperate need of expanding their reach and presence on social media. The goal of the project was to generate revenue. However, this was not the sole purpose of the project. I sought to develop a social media marketing plan to improve customer service, enhance a positive brand perception, develop crisis communiactions, and create conversations around the business. 
