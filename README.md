@@ -9,7 +9,7 @@ Large, diverse corporate audience.
 									
 PROJECT DESCRIPTION									
 
-(1) I generate content for my group which has been promoted on corporate social media pages @ExperienceORISE, formerly @ORISEaspire. ExperienceORISE is the social media platform dedicated to Oak Ridge Institute for Science and Education (ORISE)-administered research participation programs. ExperienceORISE has over 7,000 followers across four channels: Facebook, Twitter, Instagram, and LinkedIn. 
+(1) I generate content for my group which has been promoted on corporate social media pages @ExperienceORISE, formerly @ORISEaspire. ExperienceORISE is the social media platform dedicated to Oak Ridge Institute for Science and Education (ORISE)-administered research participation programs. @ExperienceORISE has over 7,000 followers across four channels: Facebook, Twitter, Instagram, and LinkedIn. 
 
 (2) Utilizing Lyris email marketing software to reach potential clients, make announcements, and share information. I generate weekly reports using the software and communicate the results to my team leaders. Utilizing Google Analytics to analyze web site data, specifically pinpointing sources, understanding bounce rates, and gaining insight on average time spent on a page.
 
