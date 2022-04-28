@@ -1,11 +1,13 @@
-# Outreach
+# Outreach & Recruiting
 CREATED FOR									
 
-The Oak Ridge Institute for Science and Education (ORISE). ORISE is a U.S. Department of Energy (DOE) asset managed by Oak Ridge Associated Universities (ORAU).																		
+The Oak Ridge Institute for Science and Education (ORISE). ORISE is a U.S. Department of Energy (DOE) asset managed by Oak Ridge Associated Universities (ORAU).
+
+Local business in Clarksville, Tennessee. 
 									
 TARGET AUDIENCE									
 
-Large, diverse corporate audience.									
+Large, diverse audience.									
 									
 PROJECT DESCRIPTION									
 
@@ -13,4 +15,4 @@ PROJECT DESCRIPTION
 
 (2) Utilizing Lyris email marketing software to reach potential clients, make announcements, and share information. I generate weekly reports using the software and communicate the results to my team leaders. Utilizing Google Analytics to analyze web site data, specifically pinpointing sources, understanding bounce rates, and gaining insight on average time spent on a page.
 
-(3) I created a social media marketing plan at the request of a company as a project in college. I undertook this task at no cost to the company. Swan Lake Golf Course in Clarksville, TN, was in desperate need of expanding their reach and presence on social media. The goal of the project was to generate revenue. However, this was not the sole purpose of the project. I sought to develop a strategic social media marketing plan to improve customer service, enhance a positive brand perception, develop crisis communications, and create conversations around the business. 
+(3) I created a strategic social media marketing plan for a local business as a project in college. I undertook this project at no cost to the company. A need was idenfitfied where Swan Lake Golf Course in Clarksville, TN, was in desperate need of expanding their reach and presence on social media. I sought to develop a strategic social media marketing plan to improve customer service, enhance a positive brand perception, develop crisis communications, and create conversations around the business. 
